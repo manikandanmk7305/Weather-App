@@ -60,12 +60,6 @@ body {
 #weather-info {
 	display: none;
 }
-
-#weather-icon {
-	width: 100px;
-	height: 100px;
-}
-
 #temperature {
 	font-size: 24px;
 	font-weight: bold;
